@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@400;500;600;700&display=swap"
+        rel="stylesheet">
+    <link href="style.css" rel="stylesheet">
+    </link>
+    <title>Cloudify Assignment</title>
+</head>
+
+<body>
+    <form class="form" method="post" action="/">
+        <div class="heading">
+            <img src="CloudifyLogo.png" width="70px">
+            <h1>Cloudify Form</h1>
+        </div>
+        <label for="name">Name</label>
+        <input type="text" name="name" id="name" placeholder="Enter your name"/>
+        <label for="description">Description</label>
+        <textarea id="description" name="desc" rows="5" placeholder="Enter Description"></textarea>
+        <label for="dueDate">Due Date</label>
+        <input type="date" name="due" id="dueDate" placeholder="Name" min="1999-01-01" max="2030-12-31"/>
+        <label for="startDate">Start Date</label>
+        <input type="date" name="start" id="startDate" placeholder="Name" min="1999-01-01" max="2023-05-18"/>
+        <button class="submit-btn" type="submit">Submit</button>
+    </form>
+    <script src="index.js" type="module"></script>
+</body>
+
+</html>

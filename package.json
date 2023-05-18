@@ -1,0 +1,16 @@
+{
+  "name": "cloudify-assignment",
+  "version": "1.0.0",
+  "description": "Cloudify Assignment",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Amaan Siddiqui",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "node-fetch": "^3.3.1"
+  }
+}
