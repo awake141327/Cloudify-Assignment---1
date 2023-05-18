@@ -5,3 +5,5 @@ Description: Create a basic form using HTML/CSS with the fields mentioned below 
 # Skills Used
 
 HTML, CSS, JavaScript, NodeJS, Express.
+
+![alt text](https://github.com/[awake141327]/[Cloudify-Assignment---1]/CloudifyForm.png?raw=true)
