@@ -6,4 +6,4 @@ Description: Create a basic form using HTML/CSS with the fields mentioned below 
 
 HTML, CSS, JavaScript, NodeJS, Express.
 
-![alt text](https://github.com/[awake141327]/[Cloudify-Assignment---1]/CloudifyForm.png?raw=true)
+![Alt text](relative%20path/to/CloudifyForm.png?raw=true "Title")
