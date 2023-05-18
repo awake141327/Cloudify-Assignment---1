@@ -6,4 +6,4 @@ Description: Create a basic form using HTML/CSS with the fields mentioned below 
 
 HTML, CSS, JavaScript, NodeJS, Express.
 
-<img src="/CloudifyForm.png" width="600">
+<img src="/CloudifyForm.png" width="700">
